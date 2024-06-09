@@ -1,0 +1,240 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f0f2f5;
+  margin: 0;
+  padding: 0;
+}
+
+nav .nav-wrapper {
+  padding: 0 20px;
+}
+
+.logo-wrapper {
+  height: 64px;
+  display: flex;
+  align-items: center;
+}
+
+.header-logo {
+  height: 100%;
+}
+
+.container {
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+
+.card {
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.card-action .btn {
+  width: 100%;
+}
+
+.details {
+  margin-top: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
+.company,
+.student,
+.alert {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+}
+
+.company p,
+.student p,
+.alert p {
+  margin: 0;
+}
+
+.alert p {
+  color: red;
+}
+
+.page-footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.dark-blue {
+  background-color: #003366 !important;
+}
+
+.footer-logo {
+  max-width: 100%;
+  height: auto;
+}
+
+.modal {
+  max-height: 70%;
+}
+
+.modal-content {
+  padding: 24px;
+}
+
+.modal-footer {
+  padding: 16px 24px;
+}
+
+.input-field input[type="text"],
+.input-field input[type="number"],
+.input-field input[type="email"],
+.input-field input[type="tel"],
+.input-field select {
+  margin-bottom: 20px;
+}
+
+.btn {
+  margin-top: 20px;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f0f2f5;
+  margin: 0;
+  padding: 0;
+}
+
+nav .nav-wrapper {
+  padding: 0 20px;
+}
+
+.logo-wrapper {
+  height: 64px;
+  display: flex;
+  align-items: center;
+}
+
+.header-logo {
+  height: 100%;
+}
+
+.container {
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+
+.card {
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.card-action .btn {
+  width: 100%;
+}
+
+.details {
+  margin-top: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
+.company,
+.student,
+.alert {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+}
+
+.company p,
+.student p,
+.alert p {
+  margin: 0;
+}
+
+.alert p {
+  color: red;
+}
+
+.page-footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.dark-blue {
+  background-color: #003366 !important;
+}
+
+.footer-logo {
+  max-width: 100%;
+  height: auto;
+}
+
+.modal {
+  max-height: 70%;
+}
+
+.modal-content {
+  padding: 24px;
+}
+
+.modal-footer {
+  padding: 16px 24px;
+}
+
+.input-field input[type="text"],
+.input-field input[type="number"],
+.input-field input[type="email"],
+.input-field input[type="tel"],
+.input-field select {
+  margin-bottom: 20px;
+}
+
+.btn {
+  margin-top: 20px;
+}
+
+.shortlisted-students {
+  margin-top: 20px;
+}
+
+.shortlisted-students .student {
+  margin-bottom: 10px;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.shortlisted-students .student p {
+  margin: 10px;
+  padding: 0;
+}
+
+.shortlisted-students .student p:first-child {
+  font-weight: bold;
+}
+
+.shortlisted-students .student p:last-child {
+  margin-bottom: 10px;
+}
+
+.shortlisted-students .student:not(:last-child) {
+  border-bottom: 1px solid #ccc;
+}
